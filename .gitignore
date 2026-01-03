@@ -1,0 +1,47 @@
+# ===============================
+# Unreal Engine
+# ===============================
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# DO NOT ignore these (important):
+# Content/
+# Content/__ExternalActors__/
+# Content/__ExternalObjects__/
+
+# ===============================
+# Local / Generated files
+# ===============================
+Backup/
+Backup1/
+Windows/
+WindowsNoEditor/
+
+# ===============================
+# Build artifacts
+# ===============================
+*.exe
+*.dll
+*.pdb
+*.lib
+*.target
+
+# ===============================
+# OS / Editor junk
+# ===============================
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+*.userprefs
+
+# ===============================
+# Unreal user-specific config
+# ===============================
+Config/DefaultEditorPerProjectUserSettings.ini
+UpgradeLog*.htm
