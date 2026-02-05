@@ -13,7 +13,7 @@ Players spawn platforms via raycast while an AI enemy continuously pursues them 
 
 ## Implementation Details
 - **Language:** C++, Blueprints
-- **Engine:** Unreal Engine 5.x
+- **Engine:** Unreal Engine 5.7
 - **Key Systems:**
   - AI Perception component for player detection
   - Dynamic Nav Link Proxy for automatic connection generation
